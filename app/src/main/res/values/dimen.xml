@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="weight">0dp</dimen>
+    <dimen name="overall_padding_port">24dp</dimen>
+    <dimen name="corner_radius">0dp</dimen>
+    <dimen name="content_padding_port">16dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+</resources>
